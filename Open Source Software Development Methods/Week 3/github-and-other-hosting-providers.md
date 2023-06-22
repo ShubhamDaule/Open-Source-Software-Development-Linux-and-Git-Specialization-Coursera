@@ -1,11 +1,9 @@
 ## GitHub and Other Hosting Providers
 
 **Q1. Select the correct statement. GitHub:**
-
 Answer: Is a private company acquired by Microsoft in 2018
 
 **Q2. Sites that offer services similar to GitHub include (select all that apply):**
-
 Answer: 
 * GitKraken
 * Launchpad
