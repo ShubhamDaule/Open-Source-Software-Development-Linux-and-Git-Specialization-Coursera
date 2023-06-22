@@ -2,25 +2,27 @@
 
 **Q1. In the X Window System:**
 
-Answer: The server handles matters such as display and input devices, while the client can be anywhere and is the running application.
+Answer: 
+* The server handles matters such as display and input devices, while the client can be anywhere and is the running application.
 
 **Q2. Which of the following are layers of the graphical system interface?**
 
 Answer:
-- Desktop Manager
-- Display Manager
-- Window Manager
+* Desktop Manager
+* Display Manager
+* Window Manager
 
 **Q3. If you are running a GNOME desktop manager:**
 
-Answer: You can run KDE-based applications most of the time, as long as the underlying libraries have been installed by the distribution.
+Answer: 
+* You can run KDE-based applications most of the time, as long as the underlying libraries have been installed by the distribution.
 
 **Q4. Which of the following are Desktop Managers?**
 
 Answer:
-- XFCE
-- KDE
-- GNOME
+* XFCE
+* KDE
+* GNOME
 
 **Q5. What are ways you can launch a terminal window on a graphical desktop?**
 
