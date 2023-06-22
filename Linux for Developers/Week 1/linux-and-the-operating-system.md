@@ -2,7 +2,8 @@
 
 **Q1. In order to install and use Linux:**
 
-Answer: You need a computer or an account in a cloud environment such as AWS, Azure or Google Cloud
+Answer: 
+* You need a computer or an account in a cloud environment such as AWS, Azure or Google Cloud
 
 **Q2. Which of the following are members of the Debian distribution family (Select all answers that apply)?**
 
