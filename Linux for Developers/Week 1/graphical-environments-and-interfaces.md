@@ -1,4 +1,4 @@
-** Graphical Environments and Interfaces
+## Graphical Environments and Interfaces
 
 ** Q1. In the X Window System: **
 
