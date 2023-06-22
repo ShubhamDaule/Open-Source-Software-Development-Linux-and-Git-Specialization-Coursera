@@ -1,4 +1,4 @@
-**## Filesystem Layout, Partitions, Paths, and Links**
+## **Filesystem Layout, Partitions, Paths, and Links**
 
 
 **Q1. Which of the following pseudo-directories are empty when the system is not running (Select all answers that apply)?**
