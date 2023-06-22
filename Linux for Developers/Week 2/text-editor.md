@@ -12,11 +12,11 @@ Answer:
 <br>$ echo line three >> myfile
 * $ echo -e 'line one\nline two\nline three ' > myfile
 *	$ cat << EOF > myfile
-  > line one
-  > line two
-  > line three
-  > EOF
-  $
+<br>> line one
+<br>> line two
+<br>> line three
+<br>> EOF
+<br>$
 
 Q3. Which statement is true?
 
