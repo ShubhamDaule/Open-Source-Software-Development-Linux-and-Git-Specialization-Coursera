@@ -2,11 +2,13 @@
 
 **Q1. Which chapter in man contains information about standard user commands?**
 
-Answer: 1
+Answer: 
+* 1
 
 **Q2. Which commands get a list of all man pages named "file" (Select all answers that apply)?**
 
-Answer: $ whatis file
+Answer: 
+* $ whatis file
 
 **Q3. Select the true statements about getting documentation on echo (Select all answers that apply).**
 
@@ -23,4 +25,5 @@ Answer:
 
 **Q5. To get a short help message about a command such as ls, listing options and arguments, type**
 
-Answer: ls --help
+Answer: 
+* ls --help
