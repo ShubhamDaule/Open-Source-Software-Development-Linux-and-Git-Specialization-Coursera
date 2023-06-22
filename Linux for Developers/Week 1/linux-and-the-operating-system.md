@@ -1,4 +1,4 @@
-##Linux and the Operating System
+## Linux and the Operating System
 
 **Q1. In order to install and use Linux:**
 
