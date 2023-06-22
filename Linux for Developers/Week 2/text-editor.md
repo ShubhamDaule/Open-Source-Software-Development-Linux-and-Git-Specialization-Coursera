@@ -8,8 +8,8 @@ Q2. Which of the following methods can be used to produce a file with 3 lines in
 
 Answer:
 *	$ echo line one > myfile
-  $ echo line two >> myfile
-  $ echo line three >> myfile
+<br>$ echo line two >> myfile
+<br>$ echo line three >> myfile
 * $ echo -e 'line one\nline two\nline three ' > myfile
 *	$ cat << EOF > myfile
   > line one
