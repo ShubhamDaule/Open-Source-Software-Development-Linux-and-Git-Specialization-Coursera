@@ -18,7 +18,7 @@ Answer:
 * The pthreads library enables multithreaded applications to be written just once for many different operating systems.
 * A process may contain many threads.
 
-**Q4. The OOM KIller **
+**Q4. The OOM KIller**
 
 Answer:
 * Tries to keep the system running by killing processes which are using more memory than can be supplied
