@@ -1,4 +1,4 @@
-## Git Installation (Ungraded)
+## Git Installation 
 
 
 **Q1. Which statement is true?**
