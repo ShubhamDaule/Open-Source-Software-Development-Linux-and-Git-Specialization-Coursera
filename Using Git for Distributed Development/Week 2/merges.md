@@ -17,10 +17,10 @@ Answer:
 Answer:
 * adapts a branch to incorporate the latest changes in another branch without yet merging this branch into the other branch
 
-**Q4. How would you merge two branches (br1 and br2) into the master branch?**
+**Q4. How would you merge two branches (br1 and br2) into the main branch?**
 
 Answer:
-* `git checkout master && git merge br1 && git merge br2`
+* `git checkout main && git merge br1 && git merge br2`
 
 **Q5. What do you do when a merge fails?**
 
