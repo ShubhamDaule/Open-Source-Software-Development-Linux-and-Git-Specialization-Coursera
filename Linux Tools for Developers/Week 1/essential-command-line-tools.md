@@ -19,7 +19,7 @@ Answer:
 
 Answer:
 * `sed -e s:boris:natasha:g file`
-<br>`sed -e s/boris/natasha/g file`
+* `sed -e s/boris/natasha/g file`
 
 **Q5. Which command will print out all lines beginning with "X" in all files in the current directory?**
 
