@@ -1,26 +1,34 @@
 ## System Monitoring
 
-1. **Q1. Which of the following utilities can be used to monitor I/O activity? (We encourage you to try all of them, as this is the best way to learn)**
+**Q1. Which of the following utilities can be used to monitor I/O activity? (We encourage you to try all of them, as this is the best way to learn)**
 
 Answer:
-iotop
-   - iostat
-   - Vmstat
-   - Sar
+* iotop
+* iostat
+* Vmstat
+* Sar
 
-3. **Q2. Which of the following utilities can be used to monitor process and system load activity? (We encourage you to try all of them as this is the best way to learn)**
-   - top
-   - ps
-   - Uptime
+**Q2. Which of the following utilities can be used to monitor process and system load activity? (We encourage you to try all of them as this is the best way to learn)**
 
-4. **Q3. Your system seems memory-starved and is slowing down. Which utilities would give you information about your memory usage?**
-   - vmstat
-   - free
-   - pmap
+Answer:
+* top
+* ps
+* Uptime
 
-5. **Q4. Which statement is true?**
-   - It is easier to monitor system activity using command line tools, since they vary little from one Linux distribution to the next.
+**Q3. Your system seems memory-starved and is slowing down. Which utilities would give you information about your memory usage?**
 
-6. **Q5. Which are high-level graphical system monitoring tools?**
-   - ksysguard
-   - gnome-system-monitor
+Answer:
+* vmstat
+* free
+* pmap
+
+**Q4. Which statement is true?**
+
+Answer:
+* It is easier to monitor system activity using command line tools, since they vary little from one Linux distribution to the next.
+
+**Q5. Which are high-level graphical system monitoring tools?**
+
+Answer:
+* ksysguard
+* gnome-system-monitor
