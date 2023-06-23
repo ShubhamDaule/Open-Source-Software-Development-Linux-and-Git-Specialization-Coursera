@@ -17,8 +17,8 @@ Answer:
 **Q3. Which command(s) will bring the network interface eth0 up and assign an address to it?**
 
 Answer:
-* sudo ip addr add 192.168.1.100 dev eth0
-*	sudo ifconfig eth0 up 192.168.1.100
+* `sudo ip addr add 192.168.1.100 dev eth0`
+*	`sudo ifconfig eth0 up 192.168.1.100`
 
 
 **Q4. You can see statistics for the eth0 interface by (select all answers that apply):**
