@@ -29,4 +29,4 @@ Answer: `sudo systemctl enable httpd.service`
 
 Answer:
 * `sudo systemctl stop httpd && sudo systemctl start httpd`
-* `sudo systemctl restart httpd
+* `sudo systemctl restart httpd'
