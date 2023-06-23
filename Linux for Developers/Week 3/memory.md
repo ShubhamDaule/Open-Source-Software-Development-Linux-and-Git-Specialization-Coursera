@@ -3,7 +3,7 @@
 **Q1. A rather complete picture of memory usage can be gotten by viewing the following pseudofile:**
 
 Answer:
-* /proc/meminfo
+* `/proc/meminfo`
 
 **Q2. Select all true statements:**
 
@@ -26,7 +26,7 @@ Answer:
 **Q5. Which of the following are utilities used to work with swap space?**
 
 Answer:
-* swapon
-* swapoff
-* mkswap
+* `swapon`
+* `swapoff`
+* `mkswap`
 
