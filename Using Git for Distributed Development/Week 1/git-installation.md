@@ -12,6 +12,7 @@ Answer:
 * It is irrelevant how a repository is created or updated, you can use either a command line or graphical interface to git
 
 **Q3. Any project which has code developed using git:**
+
 Answer: 
 * Has complete control over who can see the source and under what licensing terms
 
