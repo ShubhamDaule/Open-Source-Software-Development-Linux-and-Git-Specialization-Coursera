@@ -10,6 +10,7 @@ Answer:
 Answer:
 * `git diff --stat br1 br2`
 * `git diff --numstat br1 br2`
+* `git diff --pretty br1 br2`
 
 **Q3. Showing all differences between the current working tree and the last commit can be done with:**
 
