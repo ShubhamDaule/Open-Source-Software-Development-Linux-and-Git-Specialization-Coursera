@@ -3,7 +3,7 @@
 **Q1. Which networking configuration interface is newer and has extended capabilities?**
 
 Answer:
-* ip
+* `ip`
 
 
 **Q2. Using Predictable Network Interface Device Names (PNIDN) has come into use because:**
@@ -24,9 +24,9 @@ Answer:
 **Q4. You can see statistics for the eth0 interface by (select all answers that apply):**
 
 Answer:
-* looking at /sys/class/net/eth0/statistics
-*	doing sudo ip -s link show eth0
-*	doing sudo ifconfig eth0
+* `looking at /sys/class/net/eth0/statistics`
+*	`doing sudo ip -s link show eth0`
+*	`doing sudo ifconfig eth0`
 
 
 
