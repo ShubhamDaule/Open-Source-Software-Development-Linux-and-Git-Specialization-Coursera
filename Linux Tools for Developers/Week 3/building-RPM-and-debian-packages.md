@@ -28,5 +28,5 @@ Answer:
 **Q5. Which of the following statements are true (Select all answers that apply)?**
 
 Answer:
-* he source package contains one file in RPM-based systems
+* The source package contains one file in RPM-based systems
 * The source package contains multiple files in Debian-based systems
