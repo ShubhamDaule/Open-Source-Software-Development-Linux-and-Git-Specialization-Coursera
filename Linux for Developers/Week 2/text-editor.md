@@ -8,16 +8,16 @@ Answer:
 **Q2. Which of the following methods can be used to produce a file with 3 lines in it? Select all answers that apply.**
 
 Answer:
-*	`$ echo line one > myfile
-<br>$ echo line two >> myfile
-<br>$ echo line three >> myfile`
-* $ `echo -e 'line one\nline two\nline three ' > myfile`
-*	`$ cat << EOF > myfile
-<br>> line one
-<br>> line two
-<br>> line three
-<br>> EOF
-<br>$`
+*	`$ echo line one > myfile`
+<br>`$ echo line two >> myfile`
+<br>`$ echo line three >> myfile`
+* `$ echo -e 'line one\nline two\nline three ' > myfile`
+*	`$ cat << EOF > myfile`
+<br>`> line one`
+<br>`> line two`
+<br>`> line three`
+<br>`> EOF`
+<br>`$`
 
 **Q3. Which statement is true?**
 
