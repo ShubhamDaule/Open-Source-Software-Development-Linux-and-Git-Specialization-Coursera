@@ -18,7 +18,8 @@ Answer:
 
 **Q4. You have worked hard on implementing a new feature for an OSS project and submitted your work. A senior maintainer liked you ideas, but ignored your implementation and substituted their own new one to the same end. You should:**
 
-Answer: If the other implementation is successful at achieving its purpose, you should accept the result gratefully (after registering your displeasure that rather than reviewing and modifying your work, it was abandoned), and contribute to improving the new implementation as needed
+Answer: 
+* If the other implementation is successful at achieving its purpose, you should accept the result gratefully (after registering your displeasure that rather than reviewing and modifying your work, it was abandoned), and contribute to improving the new implementation as needed
 
 **Q5. On a project mailing list, someone inserts an irrelevant political, religious, or philosophical comment into an otherwise technical discussion and this is at least mildly offensive to you. A good and proper response could be (Select all that apply):**
 
