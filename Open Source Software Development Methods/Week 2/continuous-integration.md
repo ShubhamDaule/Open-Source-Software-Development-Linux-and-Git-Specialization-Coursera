@@ -11,16 +11,20 @@ Answer:
 
 **Q2. What is the correct order of the Continuous Integration process stages?**
 
-Answer: Integration, Delivery and Deployment
+Answer: 
+* Integration, Delivery and Deployment
 
 **Q3. Which statement is true?**
 
-Answer: Use of Continuous Integration and revision control methods are independent, but are usually employed together
+Answer: 
+* Use of Continuous Integration and revision control methods are independent, but are usually employed together
 
 **Q4. The Linux Kernel Continuous Integration Project was initiated by:**
 
-Answer: Linaro
+Answer: 
+* Linaro
 
 **Q5. There are many tooling suites used for Continuous Integration. The most widely used one is:**
 
-Answer: Jenkins
+Answer: 
+* Jenkins
