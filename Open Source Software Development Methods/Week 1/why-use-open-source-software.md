@@ -29,4 +29,4 @@ Answer:
 **Q5. Developers working in OSS will:**
 
 Answer:
-Will often find it easier to get good jobs because their work will be more open to inspection
+* Will often find it easier to get good jobs because their work will be more open to inspection
