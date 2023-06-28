@@ -8,7 +8,8 @@ Answer:
 
 **Q2. When working on an OSS project, the best strategy is to:**
 
-Answer: Submit changes one at a time in a sequential manner, even if the full change will not do much until the entire patch series is incorporated
+Answer: 
+* Submit changes one at a time in a sequential manner, even if the full change will not do much until the entire patch series is incorporated
 
 **Q3. When there is someone in the project community that gets abusive or just difficult to deal with, you should (Select all answers that apply):**
 
